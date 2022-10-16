@@ -1,5 +1,5 @@
 
 def main():
-    print("Hello code inspector")
+    print("Hello Codiga")
 
 main()
